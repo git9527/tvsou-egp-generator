@@ -4,9 +4,9 @@ on:
   push
 
 jobs:
-  if: github.repository == 'git9527/tvsou-epg-generator'
-  generate:
 
+  generate:
+    if: github.repository == 'git9527/tvsou-epg-generator'
     runs-on: ubuntu-latest
 
     steps:
