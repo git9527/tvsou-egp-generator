@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests bs4 datetime timezone
+        pip install requests bs4 datetime
     - name: Generate epg.xml
       env:
         PAIRS: 061f902e:新闻综合,120d425d:社教频道,b0ceeb7e:生活频道,ded3cdcc:上海新闻综合,6bb0f1cb:上海都市频道,5da16c9b:上海教育台
