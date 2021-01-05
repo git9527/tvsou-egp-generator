@@ -42,6 +42,7 @@ if __name__ == "__main__":
     open("/tmp/epg.xml", "w").close()
     writeLine('<?xml version="1.0" encoding="UTF-8"?>')
     writeLine('<tv generator-info-name="git9527" generator-info-url="https://github.com/git9527/tvsou-epg-generator">')
+    print('current time in Shanghai:', datetime.datetime.now(timezone('Asia/Shanghai')).strftime('%Y%m%d-%H%M%S'))
     print('generate epg for pairs:', pairs)
     for pair in pairs:
         channel = pair.split(':')
