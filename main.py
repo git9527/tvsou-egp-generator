@@ -4,6 +4,7 @@
 from bs4 import BeautifulSoup
 import requests
 import datetime
+from pytz import timezone
 import os
 
 def writeLine(lines):
@@ -26,7 +27,7 @@ def generateProgram(channelId, channelName):
     shows = []
     for index in range(0, len(contents) // 2):
         shows.append([contents[index * 2].replace(':', ''), contents[index * 2 + 1]])
-    today = datetime.date.today().strftime('%Y%m%d')
+    today = datetime.datetime.now(timezone('Asia/Shanghai')).strftime('%Y%m%d')
     print('Channel:', channelName, 'shows:', shows)
     for index, val in enumerate(shows):
         stop = shows[index + 1][0] if (index + 1 != len(shows)) else '2359'
