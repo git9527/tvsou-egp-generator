@@ -3,7 +3,7 @@ name: Geneate epg.xml
 on:
   push:
   schedule:
-  - cron: '30 22 * * *'
+  - cron: '30 21 * * *'
 
 jobs:
 
