@@ -28,8 +28,7 @@ jobs:
          python main.py
 
     - name: Upload epg.xml
-    - uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v2
       with:
         name: epg.xml
         path: /tmp/epg.xml
-      run: echo hi > /tmp/hello/txt
