@@ -2,6 +2,8 @@ name: Geneate epg.xml
 
 on:
   push:
+    branches:
+      - master
   schedule:
   - cron: '30 21 * * *'
 
@@ -27,8 +29,10 @@ jobs:
       run: |
          python main.py
 
-    - name: Upload epg.xml
-      uses: actions/upload-artifact@v2
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        name: epg.xml
-        path: /tmp/epg.xml
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: assets
+        FOLDER: /tmp
+        CLEAN: true
