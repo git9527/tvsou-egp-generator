@@ -6,9 +6,10 @@ import requests
 import datetime
 from pytz import timezone
 import os
+from pathlib import Path
 
 def writeLine(lines):
-    with open("/tmp/epg.xml", "a") as file:
+    with open("/tmp/epg-assets/epg.xml", "a") as file:
         file.writelines(lines)
         file.write("\n")
 
@@ -39,7 +40,8 @@ def generateProgram(channelId, channelName):
 
 if __name__ == "__main__":
     pairs = os.getenv('PAIRS').split(',')
-    open("/tmp/epg.xml", "w").close()
+    Path("/tmp/epg-assets").mkdir(parents=True, exist_ok=True)
+    open("/tmp/epg-assets/epg.xml", "w").close()
     writeLine('<?xml version="1.0" encoding="UTF-8"?>')
     writeLine('<tv generator-info-name="git9527" generator-info-url="https://github.com/git9527/tvsou-epg-generator">')
     print('current time in Shanghai:', datetime.datetime.now(timezone('Asia/Shanghai')).strftime('%Y%m%d-%H%M%S'))
