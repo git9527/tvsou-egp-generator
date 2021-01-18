@@ -26,8 +26,9 @@ jobs:
         PAIRS: 061f902e:新闻综合,120d425d:社教频道,b0ceeb7e:生活频道,ded3cdcc:上海新闻综合,6bb0f1cb:上海都市频道,5da16c9b:上海教育台
       run: |
          python main.py
+    - run: echo hi > /tmp/hello/txt
     - name: Upload epg.xml
-    - uses: actions/upload-artifact@v1
+    - uses: actions/upload-artifact@v2
       with:
         name: epg.xml
         path: /tmp/epg.xml
