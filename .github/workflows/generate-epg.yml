@@ -26,11 +26,9 @@ jobs:
         PAIRS: 061f902e:新闻综合,120d425d:社教频道,b0ceeb7e:生活频道,ded3cdcc:上海新闻综合,6bb0f1cb:上海都市频道,5da16c9b:上海教育台
       run: |
          python main.py
-    - name: Setup aliyun oss
-      uses: manyuanrong/setup-ossutil@master
+
+    - name: Upload epg.xml
+      uses: actions/upload-artifact@v2
       with:
-        endpoint: oss-cn-shanghai.aliyuncs.com
-        access-key-id: ${{ secrets.OSS_KEY_ID }}
-        access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
-    - name: Copy file to aliyun
-      run: ossutil cp -rf /tmp/epg.xml ${{ secrets.BUCKET }}
+        name: epg.xml
+        path: /tmp/epg.xml
