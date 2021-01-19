@@ -1,1 +1,1 @@
-#从tvsou.com生成EPG
+# 从tvsou.com生成指定频道的EPG
