@@ -1,568 +1,564 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="git9527" generator-info-url="https://github.com/git9527/tvsou-epg-generator">
 <channel id="061f902e"><display-name lang="zh">新闻综合</display-name></channel>
-<programme start="20210312001500 +0800" stop="20210312010000 +0800" channel="061f902e">
+<programme start="20210313001500 +0800" stop="20210313010000 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312010000 +0800" stop="20210312070000 +0800" channel="061f902e">
+<programme start="20210313010000 +0800" stop="20210313070000 +0800" channel="061f902e">
 <title lang="zh">媒体大放送</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312070000 +0800" stop="20210312073400 +0800" channel="061f902e">
+<programme start="20210313070000 +0800" stop="20210313073400 +0800" channel="061f902e">
 <title lang="zh">NTTV新闻</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312073400 +0800" stop="20210312080400 +0800" channel="061f902e">
+<programme start="20210313073400 +0800" stop="20210313080400 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312080400 +0800" stop="20210312092800 +0800" channel="061f902e">
+<programme start="20210313080400 +0800" stop="20210313092800 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312092800 +0800" stop="20210312093000 +0800" channel="061f902e">
+<programme start="20210313092800 +0800" stop="20210313093000 +0800" channel="061f902e">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312093000 +0800" stop="20210312111500 +0800" channel="061f902e">
+<programme start="20210313093000 +0800" stop="20210313111500 +0800" channel="061f902e">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312111500 +0800" stop="20210312114800 +0800" channel="061f902e">
+<programme start="20210313111500 +0800" stop="20210313114800 +0800" channel="061f902e">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312114800 +0800" stop="20210312120000 +0800" channel="061f902e">
+<programme start="20210313114800 +0800" stop="20210313120000 +0800" channel="061f902e">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312120000 +0800" stop="20210312124300 +0800" channel="061f902e">
+<programme start="20210313120000 +0800" stop="20210313124300 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312124300 +0800" stop="20210312131300 +0800" channel="061f902e">
+<programme start="20210313124300 +0800" stop="20210313131300 +0800" channel="061f902e">
 <title lang="zh">生活条形码</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312131300 +0800" stop="20210312132800 +0800" channel="061f902e">
+<programme start="20210313131300 +0800" stop="20210313132800 +0800" channel="061f902e">
 <title lang="zh">置业ING</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312132800 +0800" stop="20210312173500 +0800" channel="061f902e">
+<programme start="20210313132800 +0800" stop="20210313173500 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312173500 +0800" stop="20210312180000 +0800" channel="061f902e">
+<programme start="20210313173500 +0800" stop="20210313180000 +0800" channel="061f902e">
 <title lang="zh">娱乐现场</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312180000 +0800" stop="20210312183000 +0800" channel="061f902e">
+<programme start="20210313180000 +0800" stop="20210313183000 +0800" channel="061f902e">
 <title lang="zh">新闻开讲</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312183000 +0800" stop="20210312185300 +0800" channel="061f902e">
+<programme start="20210313183000 +0800" stop="20210313185300 +0800" channel="061f902e">
 <title lang="zh">NTTV新闻</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312185300 +0800" stop="20210312190000 +0800" channel="061f902e">
+<programme start="20210313185300 +0800" stop="20210313190000 +0800" channel="061f902e">
 <title lang="zh">天气预报</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312190000 +0800" stop="20210312195000 +0800" channel="061f902e">
+<programme start="20210313190000 +0800" stop="20210313195000 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312195000 +0800" stop="20210312213000 +0800" channel="061f902e">
+<programme start="20210313195000 +0800" stop="20210313213000 +0800" channel="061f902e">
 <title lang="zh">城市日历</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312213000 +0800" stop="20210312220000 +0800" channel="061f902e">
+<programme start="20210313213000 +0800" stop="20210313220000 +0800" channel="061f902e">
 <title lang="zh">媒体大放送</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312220000 +0800" stop="20210312223500 +0800" channel="061f902e">
+<programme start="20210313220000 +0800" stop="20210313223500 +0800" channel="061f902e">
 <title lang="zh">明星大乐透</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312223500 +0800" stop="20210312235900 +0800" channel="061f902e">
+<programme start="20210313223500 +0800" stop="20210313235900 +0800" channel="061f902e">
 <title lang="zh">明星大乐透</title>
 <desc lang="zh">  </desc>
 </programme>
 <channel id="120d425d"><display-name lang="zh">社教频道</display-name></channel>
-<programme start="20210312003000 +0800" stop="20210312070000 +0800" channel="120d425d">
+<programme start="20210313003000 +0800" stop="20210313070000 +0800" channel="120d425d">
 <title lang="zh">生活条形码</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312070000 +0800" stop="20210312073000 +0800" channel="120d425d">
+<programme start="20210313070000 +0800" stop="20210313073000 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312073000 +0800" stop="20210312085500 +0800" channel="120d425d">
+<programme start="20210313073000 +0800" stop="20210313085500 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312085500 +0800" stop="20210312120000 +0800" channel="120d425d">
+<programme start="20210313085500 +0800" stop="20210313120000 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312120000 +0800" stop="20210312123500 +0800" channel="120d425d">
+<programme start="20210313120000 +0800" stop="20210313123500 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312123500 +0800" stop="20210312132000 +0800" channel="120d425d">
+<programme start="20210313123500 +0800" stop="20210313132000 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312132000 +0800" stop="20210312141000 +0800" channel="120d425d">
+<programme start="20210313132000 +0800" stop="20210313141000 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312141000 +0800" stop="20210312165000 +0800" channel="120d425d">
+<programme start="20210313141000 +0800" stop="20210313165000 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312165000 +0800" stop="20210312175600 +0800" channel="120d425d">
+<programme start="20210313165000 +0800" stop="20210313175600 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312175600 +0800" stop="20210312182200 +0800" channel="120d425d">
+<programme start="20210313175600 +0800" stop="20210313182200 +0800" channel="120d425d">
 <title lang="zh">十字街头</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312182200 +0800" stop="20210312190000 +0800" channel="120d425d">
+<programme start="20210313182200 +0800" stop="20210313190000 +0800" channel="120d425d">
 <title lang="zh">总而言之+热线帮帮帮</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312190000 +0800" stop="20210312194500 +0800" channel="120d425d">
+<programme start="20210313190000 +0800" stop="20210313194500 +0800" channel="120d425d">
 <title lang="zh">9.99澳元</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312194500 +0800" stop="20210312195100 +0800" channel="120d425d">
+<programme start="20210313194500 +0800" stop="20210313195100 +0800" channel="120d425d">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312195100 +0800" stop="20210312213000 +0800" channel="120d425d">
+<programme start="20210313195100 +0800" stop="20210313213000 +0800" channel="120d425d">
 <title lang="zh">9.99澳元</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312213000 +0800" stop="20210312220000 +0800" channel="120d425d">
-<title lang="zh">9.99澳元</title>
+<programme start="20210313213000 +0800" stop="20210313220000 +0800" channel="120d425d">
+<title lang="zh">法治纵横</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312220000 +0800" stop="20210312223500 +0800" channel="120d425d">
+<programme start="20210313220000 +0800" stop="20210313223500 +0800" channel="120d425d">
 <title lang="zh">总而言之(重)</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312223500 +0800" stop="20210312225900 +0800" channel="120d425d">
-<title lang="zh">9.99澳元</title>
+<programme start="20210313223500 +0800" stop="20210313225900 +0800" channel="120d425d">
+<title lang="zh">NTTV新闻</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312225900 +0800" stop="20210312230500 +0800" channel="120d425d">
+<programme start="20210313225900 +0800" stop="20210313230500 +0800" channel="120d425d">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312230500 +0800" stop="20210312235900 +0800" channel="120d425d">
+<programme start="20210313230500 +0800" stop="20210313235900 +0800" channel="120d425d">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
 <channel id="b0ceeb7e"><display-name lang="zh">生活频道</display-name></channel>
-<programme start="20210312070500 +0800" stop="20210312090000 +0800" channel="b0ceeb7e">
+<programme start="20210313070500 +0800" stop="20210313090000 +0800" channel="b0ceeb7e">
 <title lang="zh">媒体大放送</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312090000 +0800" stop="20210312120900 +0800" channel="b0ceeb7e">
+<programme start="20210313090000 +0800" stop="20210313120900 +0800" channel="b0ceeb7e">
 <title lang="zh">上午剧场</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312120900 +0800" stop="20210312141500 +0800" channel="b0ceeb7e">
+<programme start="20210313120900 +0800" stop="20210313141500 +0800" channel="b0ceeb7e">
 <title lang="zh">掼旦英雄会</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312141500 +0800" stop="20210312181000 +0800" channel="b0ceeb7e">
+<programme start="20210313141500 +0800" stop="20210313181000 +0800" channel="b0ceeb7e">
 <title lang="zh">下午剧场</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312181000 +0800" stop="20210312183000 +0800" channel="b0ceeb7e">
+<programme start="20210313181000 +0800" stop="20210313183000 +0800" channel="b0ceeb7e">
 <title lang="zh">国医养生堂</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312183000 +0800" stop="20210312190000 +0800" channel="b0ceeb7e">
+<programme start="20210313183000 +0800" stop="20210313190000 +0800" channel="b0ceeb7e">
 <title lang="zh">肥妈肥小妹生活馆</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312190000 +0800" stop="20210312203000 +0800" channel="b0ceeb7e">
+<programme start="20210313190000 +0800" stop="20210313203000 +0800" channel="b0ceeb7e">
 <title lang="zh">魅力剧场</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312203000 +0800" stop="20210312210500 +0800" channel="b0ceeb7e">
+<programme start="20210313203000 +0800" stop="20210313210500 +0800" channel="b0ceeb7e">
 <title lang="zh">旅行者</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312210500 +0800" stop="20210312213000 +0800" channel="b0ceeb7e">
+<programme start="20210313210500 +0800" stop="20210313213000 +0800" channel="b0ceeb7e">
 <title lang="zh">生活条形码</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312213000 +0800" stop="20210312215700 +0800" channel="b0ceeb7e">
+<programme start="20210313213000 +0800" stop="20210313215700 +0800" channel="b0ceeb7e">
 <title lang="zh">明星大乐透</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312215700 +0800" stop="20210312220500 +0800" channel="b0ceeb7e">
+<programme start="20210313215700 +0800" stop="20210313220500 +0800" channel="b0ceeb7e">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312220500 +0800" stop="20210312230500 +0800" channel="b0ceeb7e">
+<programme start="20210313220500 +0800" stop="20210313230500 +0800" channel="b0ceeb7e">
 <title lang="zh">寰宇地理</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312230500 +0800" stop="20210312234000 +0800" channel="b0ceeb7e">
+<programme start="20210313230500 +0800" stop="20210313234000 +0800" channel="b0ceeb7e">
 <title lang="zh">新电影传奇</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312234000 +0800" stop="20210312235900 +0800" channel="b0ceeb7e">
+<programme start="20210313234000 +0800" stop="20210313235900 +0800" channel="b0ceeb7e">
 <title lang="zh">娱乐现场</title>
 <desc lang="zh">  </desc>
 </programme>
 <channel id="ded3cdcc"><display-name lang="zh">上海新闻综合</display-name></channel>
-<programme start="20210312001000 +0800" stop="20210312004000 +0800" channel="ded3cdcc">
+<programme start="20210313001000 +0800" stop="20210313004000 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312004000 +0800" stop="20210312013500 +0800" channel="ded3cdcc">
+<programme start="20210313004000 +0800" stop="20210313013500 +0800" channel="ded3cdcc">
 <title lang="zh">新闻坊</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312013500 +0800" stop="20210312053200 +0800" channel="ded3cdcc">
+<programme start="20210313013500 +0800" stop="20210313053200 +0800" channel="ded3cdcc">
 <title lang="zh">案件聚焦</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312053200 +0800" stop="20210312060000 +0800" channel="ded3cdcc">
+<programme start="20210313053200 +0800" stop="20210313060000 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312060000 +0800" stop="20210312062600 +0800" channel="ded3cdcc">
+<programme start="20210313060000 +0800" stop="20210313062600 +0800" channel="ded3cdcc">
 <title lang="zh">案件聚焦</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312062600 +0800" stop="20210312063000 +0800" channel="ded3cdcc">
+<programme start="20210313062600 +0800" stop="20210313063000 +0800" channel="ded3cdcc">
 <title lang="zh">中国梦系列歌曲展播</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312063000 +0800" stop="20210312064100 +0800" channel="ded3cdcc">
+<programme start="20210313063000 +0800" stop="20210313064100 +0800" channel="ded3cdcc">
 <title lang="zh">沪尚生活</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312064100 +0800" stop="20210312070000 +0800" channel="ded3cdcc">
+<programme start="20210313064100 +0800" stop="20210313070000 +0800" channel="ded3cdcc">
 <title lang="zh">洋厨房</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312070000 +0800" stop="20210312090200 +0800" channel="ded3cdcc">
+<programme start="20210313070000 +0800" stop="20210313090200 +0800" channel="ded3cdcc">
 <title lang="zh">中华人民共和国国歌</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312090200 +0800" stop="20210312095200 +0800" channel="ded3cdcc">
+<programme start="20210313090200 +0800" stop="20210313095200 +0800" channel="ded3cdcc">
 <title lang="zh">中华人民共和国国歌</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312095200 +0800" stop="20210312104500 +0800" channel="ded3cdcc">
+<programme start="20210313095200 +0800" stop="20210313104500 +0800" channel="ded3cdcc">
 <title lang="zh">中华人民共和国国歌</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312104500 +0800" stop="20210312113000 +0800" channel="ded3cdcc">
+<programme start="20210313104500 +0800" stop="20210313113000 +0800" channel="ded3cdcc">
 <title lang="zh">中华人民共和国国歌</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312113000 +0800" stop="20210312120000 +0800" channel="ded3cdcc">
+<programme start="20210313113000 +0800" stop="20210313120000 +0800" channel="ded3cdcc">
 <title lang="zh">案件聚焦</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312120000 +0800" stop="20210312123300 +0800" channel="ded3cdcc">
+<programme start="20210313120000 +0800" stop="20210313123300 +0800" channel="ded3cdcc">
 <title lang="zh">午间30分</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312123300 +0800" stop="20210312130300 +0800" channel="ded3cdcc">
+<programme start="20210313123300 +0800" stop="20210313130300 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312130300 +0800" stop="20210312134800 +0800" channel="ded3cdcc">
+<programme start="20210313130300 +0800" stop="20210313134800 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312134800 +0800" stop="20210312143600 +0800" channel="ded3cdcc">
+<programme start="20210313134800 +0800" stop="20210313143600 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312143600 +0800" stop="20210312152100 +0800" channel="ded3cdcc">
+<programme start="20210313143600 +0800" stop="20210313152100 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312152100 +0800" stop="20210312160500 +0800" channel="ded3cdcc">
+<programme start="20210313152100 +0800" stop="20210313160500 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312160500 +0800" stop="20210312170000 +0800" channel="ded3cdcc">
+<programme start="20210313160500 +0800" stop="20210313170000 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312170000 +0800" stop="20210312172900 +0800" channel="ded3cdcc">
+<programme start="20210313170000 +0800" stop="20210313172900 +0800" channel="ded3cdcc">
 <title lang="zh">媒体大搜索</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312172900 +0800" stop="20210312183000 +0800" channel="ded3cdcc">
+<programme start="20210313172900 +0800" stop="20210313183000 +0800" channel="ded3cdcc">
 <title lang="zh">新闻坊</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312183000 +0800" stop="20210312191500 +0800" channel="ded3cdcc">
+<programme start="20210313183000 +0800" stop="20210313191500 +0800" channel="ded3cdcc">
 <title lang="zh">新闻报道</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312191500 +0800" stop="20210312200700 +0800" channel="ded3cdcc">
+<programme start="20210313191500 +0800" stop="20210313200700 +0800" channel="ded3cdcc">
 <title lang="zh">新闻报道</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312200700 +0800" stop="20210312210000 +0800" channel="ded3cdcc">
+<programme start="20210313200700 +0800" stop="20210313210000 +0800" channel="ded3cdcc">
 <title lang="zh">新闻报道</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312210000 +0800" stop="20210312212600 +0800" channel="ded3cdcc">
+<programme start="20210313210000 +0800" stop="20210313212600 +0800" channel="ded3cdcc">
 <title lang="zh">东方110</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312212600 +0800" stop="20210312213000 +0800" channel="ded3cdcc">
+<programme start="20210313212600 +0800" stop="20210313213000 +0800" channel="ded3cdcc">
 <title lang="zh">天气预报（江西）</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312213000 +0800" stop="20210312223500 +0800" channel="ded3cdcc">
+<programme start="20210313213000 +0800" stop="20210313223500 +0800" channel="ded3cdcc">
 <title lang="zh">新闻夜线</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312223500 +0800" stop="20210312233000 +0800" channel="ded3cdcc">
+<programme start="20210313223500 +0800" stop="20210313233000 +0800" channel="ded3cdcc">
 <title lang="zh">新闻夜线</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312233000 +0800" stop="20210312235900 +0800" channel="ded3cdcc">
+<programme start="20210313233000 +0800" stop="20210313235900 +0800" channel="ded3cdcc">
 <title lang="zh">新闻夜线</title>
 <desc lang="zh">  </desc>
 </programme>
 <channel id="6bb0f1cb"><display-name lang="zh">上海都市频道</display-name></channel>
-<programme start="20210312063600 +0800" stop="20210312070000 +0800" channel="6bb0f1cb">
+<programme start="20210313063600 +0800" stop="20210313070000 +0800" channel="6bb0f1cb">
 <title lang="zh">快乐三兄弟</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312070000 +0800" stop="20210312080300 +0800" channel="6bb0f1cb">
+<programme start="20210313070000 +0800" stop="20210313080300 +0800" channel="6bb0f1cb">
 <title lang="zh">新娱乐在线</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312080300 +0800" stop="20210312084900 +0800" channel="6bb0f1cb">
-<title lang="zh">百家心</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312084900 +0800" stop="20210312085000 +0800" channel="6bb0f1cb">
-<title lang="zh">宣传片</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312085000 +0800" stop="20210312095000 +0800" channel="6bb0f1cb">
-<title lang="zh">36.7℃明星听诊会</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312095000 +0800" stop="20210312102000 +0800" channel="6bb0f1cb">
-<title lang="zh">今夜说点事</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312102000 +0800" stop="20210312104700 +0800" channel="6bb0f1cb">
-<title lang="zh">淘最上海</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312104700 +0800" stop="20210312105200 +0800" channel="6bb0f1cb">
-<title lang="zh">市场明珠</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312105200 +0800" stop="20210312110000 +0800" channel="6bb0f1cb">
-<title lang="zh">我就是偶像</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312110000 +0800" stop="20210312120300 +0800" channel="6bb0f1cb">
+<programme start="20210313080300 +0800" stop="20210313081800 +0800" channel="6bb0f1cb">
 <title lang="zh">新娱乐在线</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312120300 +0800" stop="20210312130300 +0800" channel="6bb0f1cb">
-<title lang="zh">36.7℃明星听诊会</title>
+<programme start="20210313081800 +0800" stop="20210313092100 +0800" channel="6bb0f1cb">
+<title lang="zh">新娱乐在线</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312130300 +0800" stop="20210312130800 +0800" channel="6bb0f1cb">
-<title lang="zh">市场明珠</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312130800 +0800" stop="20210312143400 +0800" channel="6bb0f1cb">
-<title lang="zh">百家心</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312143400 +0800" stop="20210312154000 +0800" channel="6bb0f1cb">
-<title lang="zh">百家心</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312154000 +0800" stop="20210312163200 +0800" channel="6bb0f1cb">
-<title lang="zh">快乐回放</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312163200 +0800" stop="20210312163700 +0800" channel="6bb0f1cb">
-<title lang="zh">市场明珠</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312163700 +0800" stop="20210312173600 +0800" channel="6bb0f1cb">
-<title lang="zh">市场明珠</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312173600 +0800" stop="20210312180000 +0800" channel="6bb0f1cb">
-<title lang="zh">淘最上海</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312180000 +0800" stop="20210312183000 +0800" channel="6bb0f1cb">
-<title lang="zh">快乐三兄弟</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312183000 +0800" stop="20210312191500 +0800" channel="6bb0f1cb">
-<title lang="zh">新老娘舅</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312191500 +0800" stop="20210312200000 +0800" channel="6bb0f1cb">
-<title lang="zh">百家心</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312200000 +0800" stop="20210312210000 +0800" channel="6bb0f1cb">
+<programme start="20210313092100 +0800" stop="20210313102400 +0800" channel="6bb0f1cb">
 <title lang="zh">是谣言吗</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312210000 +0800" stop="20210312220000 +0800" channel="6bb0f1cb">
-<title lang="zh">新娱乐在线</title>
+<programme start="20210313102400 +0800" stop="20210313104800 +0800" channel="6bb0f1cb">
+<title lang="zh">淘最上海</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312220000 +0800" stop="20210312223300 +0800" channel="6bb0f1cb">
-<title lang="zh">今夜说点事</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312223300 +0800" stop="20210312233000 +0800" channel="6bb0f1cb">
-<title lang="zh">今夜说点事</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312233000 +0800" stop="20210312233300 +0800" channel="6bb0f1cb">
+<programme start="20210313104800 +0800" stop="20210313105300 +0800" channel="6bb0f1cb">
 <title lang="zh">市场明珠</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312233300 +0800" stop="20210312235900 +0800" channel="6bb0f1cb">
+<programme start="20210313105300 +0800" stop="20210313110100 +0800" channel="6bb0f1cb">
+<title lang="zh">我就是偶像</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313110100 +0800" stop="20210313120400 +0800" channel="6bb0f1cb">
+<title lang="zh">新娱乐在线</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313120400 +0800" stop="20210313130400 +0800" channel="6bb0f1cb">
+<title lang="zh">陈辰全民星</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313130400 +0800" stop="20210313130900 +0800" channel="6bb0f1cb">
+<title lang="zh">市场明珠</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313130900 +0800" stop="20210313144400 +0800" channel="6bb0f1cb">
+<title lang="zh">百家心</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313144400 +0800" stop="20210313154100 +0800" channel="6bb0f1cb">
+<title lang="zh">快乐回放</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313154100 +0800" stop="20210313154600 +0800" channel="6bb0f1cb">
+<title lang="zh">市场明珠</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313154600 +0800" stop="20210313154800 +0800" channel="6bb0f1cb">
+<title lang="zh">宣传片</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313154800 +0800" stop="20210313161900 +0800" channel="6bb0f1cb">
+<title lang="zh">一呼柏应</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313161900 +0800" stop="20210313170900 +0800" channel="6bb0f1cb">
+<title lang="zh">一呼柏应</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313170900 +0800" stop="20210313180000 +0800" channel="6bb0f1cb">
+<title lang="zh">精彩老朋友</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313180000 +0800" stop="20210313183000 +0800" channel="6bb0f1cb">
+<title lang="zh">快乐三兄弟</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313183000 +0800" stop="20210313190000 +0800" channel="6bb0f1cb">
+<title lang="zh">新老娘舅</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313190000 +0800" stop="20210313203000 +0800" channel="6bb0f1cb">
+<title lang="zh">相约星期六</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313203000 +0800" stop="20210313213000 +0800" channel="6bb0f1cb">
+<title lang="zh">一呼柏应</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313213000 +0800" stop="20210313220000 +0800" channel="6bb0f1cb">
+<title lang="zh">新娱乐在线</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313220000 +0800" stop="20210313223300 +0800" channel="6bb0f1cb">
+<title lang="zh">陈蓉朋友圈</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313223300 +0800" stop="20210313233000 +0800" channel="6bb0f1cb">
+<title lang="zh">陈蓉朋友圈</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313233000 +0800" stop="20210313233300 +0800" channel="6bb0f1cb">
+<title lang="zh">市场明珠</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313233300 +0800" stop="20210313235900 +0800" channel="6bb0f1cb">
 <title lang="zh">新娱乐影院</title>
 <desc lang="zh">  </desc>
 </programme>
 <channel id="5da16c9b"><display-name lang="zh">上海教育台</display-name></channel>
-<programme start="20210312002000 +0800" stop="20210312070000 +0800" channel="5da16c9b">
+<programme start="20210313002000 +0800" stop="20210313070000 +0800" channel="5da16c9b">
 <title lang="zh">讲武堂</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312070000 +0800" stop="20210312071000 +0800" channel="5da16c9b">
+<programme start="20210313070000 +0800" stop="20210313071000 +0800" channel="5da16c9b">
 <title lang="zh">山东教育新闻</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312071000 +0800" stop="20210312073500 +0800" channel="5da16c9b">
+<programme start="20210313071000 +0800" stop="20210313073500 +0800" channel="5da16c9b">
 <title lang="zh">市民大学堂</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312073500 +0800" stop="20210312075500 +0800" channel="5da16c9b">
+<programme start="20210313073500 +0800" stop="20210313075000 +0800" channel="5da16c9b">
 <title lang="zh">今日房产</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312075500 +0800" stop="20210312085000 +0800" channel="5da16c9b">
+<programme start="20210313075000 +0800" stop="20210313082500 +0800" channel="5da16c9b">
+<title lang="zh">讲武堂</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313082500 +0800" stop="20210313101500 +0800" channel="5da16c9b">
+<title lang="zh">蜜月重温</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313101500 +0800" stop="20210313104000 +0800" channel="5da16c9b">
+<title lang="zh">教育山海经</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313104000 +0800" stop="20210313112500 +0800" channel="5da16c9b">
+<title lang="zh">说戏</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313112500 +0800" stop="20210313115500 +0800" channel="5da16c9b">
+<title lang="zh">大师</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313115500 +0800" stop="20210313125000 +0800" channel="5da16c9b">
+<title lang="zh">健康大不同</title>
+<desc lang="zh">  </desc>
+</programme>
+<programme start="20210313125000 +0800" stop="20210313134000 +0800" channel="5da16c9b">
 <title lang="zh">非常父母</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312085000 +0800" stop="20210312101500 +0800" channel="5da16c9b">
-<title lang="zh">市民大学堂</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312101500 +0800" stop="20210312104500 +0800" channel="5da16c9b">
-<title lang="zh">幸福延长线</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312104500 +0800" stop="20210312112500 +0800" channel="5da16c9b">
-<title lang="zh">档案</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312112500 +0800" stop="20210312120000 +0800" channel="5da16c9b">
-<title lang="zh">档案</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312120000 +0800" stop="20210312125000 +0800" channel="5da16c9b">
-<title lang="zh">帮女郎,帮你忙</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312125000 +0800" stop="20210312134000 +0800" channel="5da16c9b">
-<title lang="zh">青春万岁</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312134000 +0800" stop="20210312141500 +0800" channel="5da16c9b">
+<programme start="20210313134000 +0800" stop="20210313141500 +0800" channel="5da16c9b">
 <title lang="zh">走近科学</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312141500 +0800" stop="20210312144500 +0800" channel="5da16c9b">
+<programme start="20210313141500 +0800" stop="20210313144500 +0800" channel="5da16c9b">
 <title lang="zh">光影</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312144500 +0800" stop="20210312153500 +0800" channel="5da16c9b">
-<title lang="zh">档案</title>
+<programme start="20210313144500 +0800" stop="20210313161000 +0800" channel="5da16c9b">
+<title lang="zh">剧场(重播)</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312153500 +0800" stop="20210312161000 +0800" channel="5da16c9b">
-<title lang="zh">讲武堂</title>
-<desc lang="zh">  </desc>
-</programme>
-<programme start="20210312161000 +0800" stop="20210312170000 +0800" channel="5da16c9b">
+<programme start="20210313161000 +0800" stop="20210313165000 +0800" channel="5da16c9b">
 <title lang="zh">养生堂</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312170000 +0800" stop="20210312173000 +0800" channel="5da16c9b">
-<title lang="zh">养生堂</title>
+<programme start="20210313165000 +0800" stop="20210313173000 +0800" channel="5da16c9b">
+<title lang="zh">科普新说</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312173000 +0800" stop="20210312180000 +0800" channel="5da16c9b">
+<programme start="20210313173000 +0800" stop="20210313180000 +0800" channel="5da16c9b">
 <title lang="zh">中华德育故事</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312180000 +0800" stop="20210312185000 +0800" channel="5da16c9b">
+<programme start="20210313180000 +0800" stop="20210313185000 +0800" channel="5da16c9b">
 <title lang="zh">中华德育故事</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312185000 +0800" stop="20210312190000 +0800" channel="5da16c9b">
+<programme start="20210313185000 +0800" stop="20210313190000 +0800" channel="5da16c9b">
 <title lang="zh">山东教育新闻</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312190000 +0800" stop="20210312193500 +0800" channel="5da16c9b">
+<programme start="20210313190000 +0800" stop="20210313193500 +0800" channel="5da16c9b">
 <title lang="zh">新闻联播</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312193500 +0800" stop="20210312202500 +0800" channel="5da16c9b">
-<title lang="zh">养生堂</title>
+<programme start="20210313193500 +0800" stop="20210313202500 +0800" channel="5da16c9b">
+<title lang="zh">健康大不同</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312202500 +0800" stop="20210312211500 +0800" channel="5da16c9b">
-<title lang="zh">帮女郎,帮你忙</title>
+<programme start="20210313202500 +0800" stop="20210313213500 +0800" channel="5da16c9b">
+<title lang="zh">健康大不同</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312211500 +0800" stop="20210312221000 +0800" channel="5da16c9b">
-<title lang="zh">非常父母</title>
+<programme start="20210313213500 +0800" stop="20210313221000 +0800" channel="5da16c9b">
+<title lang="zh">科普新说</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312221000 +0800" stop="20210312223000 +0800" channel="5da16c9b">
+<programme start="20210313221000 +0800" stop="20210313223000 +0800" channel="5da16c9b">
 <title lang="zh">今日房产</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312223000 +0800" stop="20210312230500 +0800" channel="5da16c9b">
+<programme start="20210313223000 +0800" stop="20210313230500 +0800" channel="5da16c9b">
 <title lang="zh">讲武堂</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312230500 +0800" stop="20210312235000 +0800" channel="5da16c9b">
-<title lang="zh">档案</title>
+<programme start="20210313230500 +0800" stop="20210313234000 +0800" channel="5da16c9b">
+<title lang="zh">大师</title>
 <desc lang="zh">  </desc>
 </programme>
-<programme start="20210312235000 +0800" stop="20210312235900 +0800" channel="5da16c9b">
+<programme start="20210313234000 +0800" stop="20210313235900 +0800" channel="5da16c9b">
 <title lang="zh">光影</title>
 <desc lang="zh">  </desc>
 </programme>
